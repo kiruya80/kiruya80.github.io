@@ -23,4 +23,8 @@ index.html 헤더에 아래 추가
     <script type="application/javascript" src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js" defer></script>
   <!-- ... -->
 </head>
+
+폴더가 하나 있어서 .을 붙여야함 >> ./assets/packages
+<script type="application/javascript" src="./assets/packages/flutter_inappwebview_web/assets/web/web_support.js" defer></script>
+
 =====
